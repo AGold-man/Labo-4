@@ -1,0 +1,25 @@
+body{
+    background-image:url(../images/cinema.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+h1{
+    color: white;
+}
+
+.filnone{
+    color: yellowgreen;
+    list-style-type: none;
+    font-size: 25px;
+}
+
+ol{
+
+    list-style-type: upper-latin;
+    color: white;
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: disc;
+}
